@@ -1,4 +1,5 @@
-[	
+{
+	"events":[	
 	{
 		"id": 1,
 		"category": "concert",
@@ -17,3 +18,4 @@
 		"time":"09:00"
 	}
 ]
+}
